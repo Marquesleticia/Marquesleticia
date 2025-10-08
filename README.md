@@ -1,6 +1,6 @@
 # 👩‍💻 Letícia Marques
 
-Olá! Me chamo **Letícia Marques**, estudante do **5º período de Sistemas de Informação na Unitins**.
+Olá! Me chamo **Letícia Marques**, estudante do **6º período de Sistemas de Informação na Unitins**.
 
 Sou apaixonada por tecnologia e estou sempre em busca de **novos aprendizados**, tanto na área técnica quanto em design, gestão e comunicação. Minha trajetória envolve experiências diversas 
 
