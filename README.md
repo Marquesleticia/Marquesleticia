@@ -85,6 +85,12 @@
 </p>
 
 ---
+## 🐍 Contribuições Animadas  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Marquesleticia/Marquesleticia/output/snake.svg" alt="Snake animation" />
+</p>
+---
 
 <!-- Rodapé animado -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b57edc&height=120&section=footer"/>
