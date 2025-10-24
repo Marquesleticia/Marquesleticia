@@ -2,9 +2,12 @@
 name: Generate Snake Animation
 
 on:
-  schedule: # Atualiza uma vez por dia
-    - cron: "0 0 * * *"
+  schedule:
+    - cron: "0 0 * * *"   # roda 1x por dia
   workflow_dispatch:
+
+permissions:
+  contents: write   # <— dá permissão de escrita para o GITHUB_TOKEN
 
 jobs:
   build:
@@ -18,9 +21,11 @@ jobs:
         with:
           github_user_name: Marquesleticia
           outputs: dist/snake.svg
-          snake_color: "#b57edc"
-          snake_head_color: "#ffffff"
-          background: "#0d1117"
+          # Customização por argumentos (suportado pelo v3)
+          # cor da cobra e das bolinhas (5 tons: fundo/níveis)
+          args: >
+            --color_snake=#b57edc
+            --color_dots=#0d1117,#b57edc,#e1c8ff,#c19cf2,#ffffff
 
       - name: Enviar para o branch de saída
         uses: crazy-max/ghaction-github-pages@v3.1.0
