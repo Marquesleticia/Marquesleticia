@@ -118,6 +118,8 @@ Promove o autocuidado e o diagnóstico precoce com experiências interativas.
 ![Canva](https://img.shields.io/badge/Canva-ffb347?style=for-the-badge&logo=canva&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-ffb347?style=for-the-badge&logo=trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-ffb347?style=for-the-badge&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ffb347?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-ffb347?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ---
 ## 📊 Estatísticas do GitHub  
