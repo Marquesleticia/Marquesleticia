@@ -26,6 +26,10 @@
 ![Python](https://img.shields.io/badge/Python-ffb347?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-ffb347?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-ffb347?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ffb347?style=for-the-badge&logo=java&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffb347?style=for-the-badge&logo=postgresql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-ffb347?style=for-the-badge&logo=springboot&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-ffb347?style=for-the-badge&logo=dart&logoColor=white)
 
 ---
 ## 🚀 Mural — Projetos em Destaque  
