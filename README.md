@@ -22,14 +22,14 @@
 ![HTML5](https://img.shields.io/badge/HTML5-ffb347?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-ffb347?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffb347?style=for-the-badge&logo=javascript&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-ffb347?style=for-the-badge&logo=flutter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ffb347?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ffb347?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-ffb347?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-ffb347?style=for-the-badge&logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-ffb347?style=for-the-badge&logo=springboot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-ffb347?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-ffb347?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ffb347?style=for-the-badge&logo=java&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffb347?style=for-the-badge&logo=postgresql&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-ffb347?style=for-the-badge&logo=springboot&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-ffb347?style=for-the-badge&logo=dart&logoColor=white)
 
 ---
 ## 🚀 Mural — Projetos em Destaque  
@@ -109,14 +109,14 @@ Promove o autocuidado e o diagnóstico precoce com experiências interativas.
 ---
 
 ### 🧰 **Ferramentas e Design**
-![Google Colab](https://img.shields.io/badge/Google_Colab-ffb347?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-ffb347?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-ffb347?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-ffb347?style=for-the-badge&logo=android-studio&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-ffb347?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-ffb347?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-ffb347?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-ffb347?style=for-the-badge&logo=trello&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-ffb347?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-ffb347?style=for-the-badge&logo=canva&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-ffb347?style=for-the-badge&logo=trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-ffb347?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
@@ -134,8 +134,8 @@ Promove o autocuidado e o diagnóstico precoce com experiências interativas.
 ### ⚙️ **DevOps e Versionamento**
 ![Git](https://img.shields.io/badge/Git-ffb347?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-ffb347?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-ffb347?style=for-the-badge&logo=docker&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-ffb347?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-ffb347?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ---
