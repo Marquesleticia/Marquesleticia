@@ -109,12 +109,15 @@ Promove o autocuidado e o diagnóstico precoce com experiências interativas.
 ---
 
 ### 🧰 **Ferramentas e Design**
+![Google Colab](https://img.shields.io/badge/Google_Colab-ffb347?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-ffb347?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-ffb347?style=for-the-badge&logo=android-studio&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-ffb347?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-ffb347?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-ffb347?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-ffb347?style=for-the-badge&logo=trello&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-ffb347?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-ffb347?style=for-the-badge&logo=canva&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-ffb347?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 ## 📊 Estatísticas do GitHub  
@@ -132,6 +135,7 @@ Promove o autocuidado e o diagnóstico precoce com experiências interativas.
 ![Git](https://img.shields.io/badge/Git-ffb347?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-ffb347?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-ffb347?style=for-the-badge&logo=docker&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-ffb347?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
 ---
